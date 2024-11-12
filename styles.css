@@ -41,7 +41,7 @@ body {
 
 
 .links a {
-    display: flex;
+   display: flex;
     align-items: center;
     justify-content: space-between;
     border-radius: 15px;
